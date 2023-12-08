@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b64fcdba-55c4-4342-8058-f46e54695b65/resourceGroups/27042007/providers/Microsoft.Web/sites/projeto-aulas-michelle-2023"
+}
